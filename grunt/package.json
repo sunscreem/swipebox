@@ -1,6 +1,10 @@
 {
   "name": "grunt-swipebox",
+<<<<<<< HEAD
   "version": "1.4.4",
+=======
+  "version": "1.4.3",
+>>>>>>> 7d35fb1... Fixes https://github.com/brutaldesign/swipebox/issues/229
   "description": "A touchable jQuery lightbox",
   "repository": {
     "type": "git",
